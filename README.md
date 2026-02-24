@@ -2,9 +2,9 @@
 
 4x founding hire at early-stage startups. I build operational infrastructure from scratch, increasingly with AI tools.
 
-**Currently:** PM at [Zero Gravity](https://zerogravity.co), building an AI career co-pilot for disadvantaged students.
+**Currently:** PM at [Zero Gravity](https://zerogravity.co.uk), building an AI career co-pilot for disadvantaged students.
 
-**Previously:** Scaled ops 0→1 at Flash Pack (pre-seed→Series A), co-founded [MealsForTheNHS](https://mealsfornhs.com) (£1.8m raised, 303k meals), built regulated workflows at Farewill (SRA/FCA).
+**Previously:** Scaled ops 0→1 at Flash Pack (pre-seed→Series A), co-founded [MealsForTheNHS](https://mealsforthenhs.com) (£1.8m raised, 303k meals), built regulated workflows at Farewill (SRA/FCA).
 
 **Recent:** [Just Now Possible with Teresa Torres](https://open.spotify.com/episode/3D8quBCXrMNgIF87czhux3) — building AI products that augment human relationships, not replace them.
 
