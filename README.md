@@ -12,7 +12,7 @@
 
 ---
 
-#### Claude Code Tools
+#### 🛠️ Claude Code Tools
 
 | Project | What it does |
 |---------|-------------|
@@ -20,7 +20,7 @@
 | [**Claude-Skill-Potions**](https://github.com/ElliotJLT/Claude-Skill-Potions) | Curated Claude Code skills for ops and product workflows |
 | [**decision-trail**](https://github.com/ElliotJLT/decision-trail) | Capture human decisions during AI-assisted development |
 
-#### Personal Projects
+#### 🧪 Personal Projects
 
 | Project | What it does |
 |---------|-------------|
@@ -28,7 +28,7 @@
 | [**plod**](https://github.com/ElliotJLT/plod) | Calm running PWA with Strava sync, weather, and air quality |
 | [**elliot-ai**](https://github.com/ElliotJLT/elliot-ai) | Voice AI portfolio experiment — talk to an AI that knows my career |
 
-#### House Buying Tools
+#### 🏡 House Buying Tools
 
 | Project | What it does |
 |---------|-------------|
