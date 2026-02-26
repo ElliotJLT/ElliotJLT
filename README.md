@@ -12,28 +12,23 @@
 
 ---
 
-#### 🛠️ Claude Code Tools
+#### Claude Code Tools
 
-| Project | What it does |
-|---------|-------------|
-| [**zeste**](https://github.com/ElliotJLT/zeste) | macOS menubar companion for Claude Code skills — search, install, and manage 40,000+ skills |
-| [**Claude-Skill-Potions**](https://github.com/ElliotJLT/Claude-Skill-Potions) | Curated Claude Code skills for ops and product workflows |
-| [**decision-trail**](https://github.com/ElliotJLT/decision-trail) | Capture human decisions during AI-assisted development |
+- 🍋 **[zeste](https://github.com/ElliotJLT/zeste)** - macOS menubar companion for Claude Code skills — search, install, and manage 40,000+ skills
+- 🧪 **[Claude-Skill-Potions](https://github.com/ElliotJLT/Claude-Skill-Potions)** - Curated Claude Code skills for ops and product workflows
+- 🧭 **[decision-trail](https://github.com/ElliotJLT/decision-trail)** - Capture human decisions during AI-assisted development
+- 🔍 **[claudemd-lint](https://github.com/ElliotJLT/claudemd-lint)** - Lint your CLAUDE.md files — catch vague rules and instructions that should be hooks
 
-#### 🧪 Personal Projects
+#### Personal Projects
 
-| Project | What it does |
-|---------|-------------|
-| [**spotifyunwrapped**](https://github.com/ElliotJLT/spotifyunwrapped) | Privacy-first Spotify listening analytics — your full history, visualised properly |
-| [**plod**](https://github.com/ElliotJLT/plod) | Calm running PWA with Strava sync, weather, and air quality |
-| [**elliot-ai**](https://github.com/ElliotJLT/elliot-ai) | Voice AI portfolio experiment — talk to an AI that knows my career |
+- 🎵 **[spotifyunwrapped](https://github.com/ElliotJLT/spotifyunwrapped)** - Privacy-first Spotify listening analytics — your full history, visualised properly
+- 🏃 **[plod](https://github.com/ElliotJLT/plod)** - Calm running PWA with Strava sync, weather, and air quality
+- 🗣️ **[elliot-ai](https://github.com/ElliotJLT/elliot-ai)** - Voice AI portfolio experiment — talk to an AI that knows my career
 
-#### 🏡 House Buying Tools
+#### House Buying Tools
 
-| Project | What it does |
-|---------|-------------|
-| [**bungalow**](https://github.com/ElliotJLT/bungalow) | AI agent system guiding first-time buyers from offer to completion |
-| [**ftb-calculator**](https://github.com/ElliotJLT/ftb-calculator) | UK first-time buyer affordability calculator with full cost breakdown |
+- 🏡 **[bungalow](https://github.com/ElliotJLT/bungalow)** - AI agent system guiding first-time buyers from offer to completion
+- 🧮 **[ftb-calculator](https://github.com/ElliotJLT/ftb-calculator)** - UK first-time buyer affordability calculator with full cost breakdown
 
 ---
 
