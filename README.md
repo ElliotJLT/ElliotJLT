@@ -18,6 +18,7 @@
 - 🔍 **[claudemd-lint](https://github.com/ElliotJLT/claudemd-lint)** - Lint your CLAUDE.md files — catch vague rules and instructions that should be hooks
 - 🧭 **[decision-trail](https://github.com/ElliotJLT/decision-trail)** - Capture human decisions during AI-assisted development
 - 🧪 **[Claude-Skill-Potions](https://github.com/ElliotJLT/Claude-Skill-Potions)** - Curated Claude Code skills for ops and product workflows
+- 墨 **[mo-hanzi](https://github.com/ElliotJLT/mo-hanzi)** - Menubar SRS for learning Chinese characters (HSK 1-3)
 
 #### What I'm writing
 
