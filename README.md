@@ -12,23 +12,20 @@
 
 ---
 
-#### Claude Code Tools
+#### What I'm building
 
 - 🍋 **[zeste](https://github.com/ElliotJLT/zeste)** - macOS menubar companion for Claude Code skills — search, install, and manage 40,000+ skills
-- 🧪 **[Claude-Skill-Potions](https://github.com/ElliotJLT/Claude-Skill-Potions)** - Curated Claude Code skills for ops and product workflows
-- 🧭 **[decision-trail](https://github.com/ElliotJLT/decision-trail)** - Capture human decisions during AI-assisted development
 - 🔍 **[claudemd-lint](https://github.com/ElliotJLT/claudemd-lint)** - Lint your CLAUDE.md files — catch vague rules and instructions that should be hooks
+- 🧭 **[decision-trail](https://github.com/ElliotJLT/decision-trail)** - Capture human decisions during AI-assisted development
+- 🧪 **[Claude-Skill-Potions](https://github.com/ElliotJLT/Claude-Skill-Potions)** - Curated Claude Code skills for ops and product workflows
 
-#### Personal Projects
+#### What I'm writing
 
-- 🎵 **[spotifyunwrapped](https://github.com/ElliotJLT/spotifyunwrapped)** - Privacy-first Spotify listening analytics — your full history, visualised properly
-- 🏃 **[plod](https://github.com/ElliotJLT/plod)** - Calm running PWA with Strava sync, weather, and air quality
-- 🗣️ **[elliot-ai](https://github.com/ElliotJLT/elliot-ai)** - Voice AI portfolio experiment — talk to an AI that knows my career
-
-#### House Buying Tools
-
-- 🏡 **[bungalow](https://github.com/ElliotJLT/bungalow)** - AI agent system guiding first-time buyers from offer to completion
-- 🧮 **[ftb-calculator](https://github.com/ElliotJLT/ftb-calculator)** - UK first-time buyer affordability calculator with full cost breakdown
+- [What I Learned Spending A Week With 100+ AI Leaders](https://medium.com/@elliotJL/what-i-learned-spending-a-week-with-100-ai-leaders-3517ac3dc16c)
+- [What I Learned Shipping AI to Users Who Can't Afford Bad Advice](https://medium.com/@elliotJL/what-i-learned-shipping-ai-to-users-who-cant-afford-bad-advice-606243049534)
+- [Amsterdam Built the 'Perfect' Ethical AI System. It Still Failed.](https://medium.com/@elliotJL/amsterdam-built-the-perfect-ethical-ai-system-it-still-failed-here-s-why-8dc8072beea3)
+- [The Trust Gap: Why Your AI Product Will Fail Without This](https://medium.com/@elliotJL/the-trust-gap-why-your-ai-product-will-fail-without-this-92b8f60391b3)
+- [Claude Keeps Making the Same Mistakes. So I Started Writing Down the Fixes.](https://medium.com/@elliotJL/your-ai-has-infinite-knowledge-and-zero-habits-heres-the-fix-e279215d478d)
 
 ---
 
