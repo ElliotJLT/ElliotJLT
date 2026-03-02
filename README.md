@@ -2,7 +2,7 @@
 
 4x founding hire at early-stage startups. I build operational infrastructure from scratch, increasingly with AI tools.
 
-**Previously:** PM at [Zero Gravity](https://zerogravity.co.uk) (AI career co-pilot), scaled ops 0-1 at [Flash Pack](https://www.flashpack.com/) (pre-seed to Series A), co-founded [MealsForTheNHS](https://mealsforthenhs.org) (£1.8m raised, 303k meals), built regulated workflows at [Farewill](https://farewill.com/) (SRA/FCA).
+**Now:** Building AI product at [Zero Gravity](https://zerogravity.co.uk) (AI career co-pilot). Scaled ops 0-1 at [Flash Pack](https://www.flashpack.com/) (pre-seed to Series A), co-founded [MealsForTheNHS](https://mealsforthenhs.org) (£1.8m raised, 303k meals), built regulated workflows at [Farewill](https://farewill.com/) (SRA/FCA).
 
 **Recent:** [Just Now Possible with Teresa Torres](https://open.spotify.com/episode/3D8quBCXrMNgIF87czhux3) — building AI products that augment human relationships, not replace them.
 
@@ -19,6 +19,10 @@
 - 🧭 **[decision-trail](https://github.com/ElliotJLT/decision-trail)** - Capture human decisions during AI-assisted development
 - 🧪 **[Claude-Skill-Potions](https://github.com/ElliotJLT/Claude-Skill-Potions)** - Curated Claude Code skills for ops and product workflows
 - 墨 **[mo-hanzi](https://github.com/ElliotJLT/mo-hanzi)** - Menubar SRS for learning Chinese characters (HSK 1-3)
+
+#### MCP servers
+
+- 🏠 **[conveyancing-mcp-server](https://github.com/ElliotJLT/conveyancing-mcp-server)** - UK homebuying assistant for Claude — stamp duty, title registers, searches, surveys, leasehold checks across England, Scotland & Wales
 
 #### What I'm writing
 
