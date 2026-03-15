@@ -6,9 +6,7 @@
 
 **Recent:** [Just Now Possible with Teresa Torres](https://open.spotify.com/episode/3D8quBCXrMNgIF87czhux3) — building AI products that augment human relationships, not replace them.
 
-**Background:** Languages BA (Birmingham/Fudan), [BlueDot Impact](https://www.bluedot.org/) AI Governance & Alignment
-
-**Languages:** French & English (native), Spanish (fluent), Chinese (intermediate)
+**Background:** Languages BA (Birmingham/Fudan) — French & English (native), Spanish (fluent), Chinese (intermediate). [BlueDot Impact](https://www.bluedot.org/) AI Governance & Alignment.
 
 ---
 
