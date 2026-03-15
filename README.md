@@ -39,6 +39,7 @@ Domain expertise baked into tools that any AI assistant can use.
 |---------|-------------|
 | 墨 [mo-hanzi](https://github.com/ElliotJLT/mo-hanzi) | menubar SRS for learning Chinese characters (HSK 1-3) |
 | 🐌 [plod](https://github.com/ElliotJLT/plod) | A calm running app that cares about your health, not your PBs. PWA with Strava sync |
+| 🎧 [spotifyunwrapped](https://github.com/ElliotJLT/spotifyunwrapped) | Your Spotify data, visualised properly. Privacy-first analytics, runs entirely in your browser |
 
 #### What I'm writing
 
