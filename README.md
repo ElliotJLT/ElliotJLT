@@ -31,6 +31,12 @@ Domain expertise baked into tools that any AI assistant can use.
 | 📡 [hiresignal](https://github.com/ElliotJLT/hiresignal) | Open spec + MCP server for AI-queryable professional profiles | Recruiting agents need structured candidate data, not scraped LinkedIn |
 | 🎙️ [vox](https://github.com/ElliotJLT/vox) | Open-source Voice of Customer research agent | 8 days of PM research in 8 minutes. JTBD, personas, opportunity mapping from Gong/Granola/Jiminy data |
 
+#### AI deployment & safety
+
+| Project | What it does | Why it exists |
+|---------|-------------|---------------|
+| 🧬 [claude-eval-toolkit](https://github.com/ElliotJLT/claude-eval-toolkit) | Evaluation framework for Claude-powered apps — evals, guardrails, deployment patterns | Test your AI before it reaches users. 69 test cases, LLM-as-judge grading, UK education safeguarding (KCSIE/Prevent) |
+
 #### Apps
 
 | Project | What it does |
