@@ -6,23 +6,37 @@
 
 **Recent:** [Just Now Possible with Teresa Torres](https://open.spotify.com/episode/3D8quBCXrMNgIF87czhux3) — building AI products that augment human relationships, not replace them.
 
-**Background:** Languages BA (Birmingham/Fudan), BlueDot Impact AI Governance & Alignment
+**Background:** Languages BA (Birmingham/Fudan), [BlueDot Impact](https://www.bluedot.org/) AI Governance & Alignment
 
 **Languages:** French & English (native), Spanish (fluent), Chinese (intermediate)
 
 ---
 
-#### What I'm building
+#### Claude Code ecosystem
 
-- 🍋 **[zeste](https://github.com/ElliotJLT/zeste)** - macOS menubar companion for Claude Code skills — search, install, and manage 40,000+ skills
-- 🔍 **[claudemd-lint](https://github.com/ElliotJLT/claudemd-lint)** - Lint your CLAUDE.md files — catch vague rules and instructions that should be hooks
-- 🧭 **[decision-trail](https://github.com/ElliotJLT/decision-trail)** - Capture human decisions during AI-assisted development
-- 🧪 **[Claude-Skill-Potions](https://github.com/ElliotJLT/Claude-Skill-Potions)** - Curated Claude Code skills for ops and product workflows
-- 墨 **[mo-hanzi](https://github.com/ElliotJLT/mo-hanzi)** - Menubar SRS for learning Chinese characters (HSK 1-3)
+Tools for the AI-assisted development workflow. I use Claude Code daily to ship production code — these came from scratching my own itches.
+
+| Project | What it does | Why it exists |
+|---------|-------------|---------------|
+| [Claude-Skill-Potions](https://github.com/ElliotJLT/Claude-Skill-Potions) | Curated Claude Code skills for ops and product workflows | The skills directory is 40K+ deep. These are the ones that actually work. **51 stars** |
+| [zeste](https://github.com/ElliotJLT/zeste) | macOS menubar app — search, install, and manage Claude Code skills | Finding and installing skills shouldn't require digging through GitHub |
+| [claudemd-lint](https://github.com/ElliotJLT/claudemd-lint) | Linter for CLAUDE.md files | Catches vague rules, bloated configs, and instructions that should be hooks |
 
 #### MCP servers
 
-- 🏠 **[conveyancing-mcp-server](https://github.com/ElliotJLT/conveyancing-mcp-server)** - UK homebuying assistant for Claude — stamp duty, title registers, searches, surveys, leasehold checks across England, Scotland & Wales
+Domain expertise baked into tools that any AI assistant can use.
+
+| Project | What it does | Why it exists |
+|---------|-------------|---------------|
+| [conveyancing-mcp-server](https://github.com/ElliotJLT/conveyancing-mcp-server) | UK homebuying assistant — stamp duty, title registers, searches, surveys, leasehold checks | Buying a house involves 15 weeks of opaque legal process. 6 tools, 95 tests, covers England, Scotland & Wales |
+| [hiresignal](https://github.com/ElliotJLT/hiresignal) | Open spec + MCP server for AI-queryable professional profiles | Recruiting agents need structured candidate data, not scraped LinkedIn |
+
+#### Apps
+
+| Project | What it does |
+|---------|-------------|
+| [mo-hanzi](https://github.com/ElliotJLT/mo-hanzi) | 墨 mò — menubar SRS for learning Chinese characters (HSK 1-3) |
+| [plod](https://github.com/ElliotJLT/plod) | A calm running app that cares about your health, not your PBs. PWA with Strava sync |
 
 #### What I'm writing
 
