@@ -51,4 +51,4 @@ Domain expertise baked into tools that any AI assistant can use.
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hireelliot-blue?logo=linkedin)](https://www.linkedin.com/in/hireelliot/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hireelliot-blue?logo=linkedin)](https://www.linkedin.com/in/hireelliot/) [![BlueDot Impact](https://img.shields.io/badge/BlueDot_Impact-AI_Governance_&_Alignment-4A90D9)](https://www.bluedot.org/)
