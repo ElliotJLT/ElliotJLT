@@ -18,9 +18,10 @@ Tools for the AI-assisted development workflow. I use Claude Code daily to ship 
 
 | Project | What it does | Why it exists |
 |---------|-------------|---------------|
-| [Claude-Skill-Potions](https://github.com/ElliotJLT/Claude-Skill-Potions) | Curated Claude Code skills for ops and product workflows | The skills directory is 40K+ deep. These are the ones that actually work. **51 stars** |
-| [zeste](https://github.com/ElliotJLT/zeste) | macOS menubar app — search, install, and manage Claude Code skills | Finding and installing skills shouldn't require digging through GitHub |
-| [claudemd-lint](https://github.com/ElliotJLT/claudemd-lint) | Linter for CLAUDE.md files | Catches vague rules, bloated configs, and instructions that should be hooks |
+| 🧪 [Claude-Skill-Potions](https://github.com/ElliotJLT/Claude-Skill-Potions) | Curated Claude Code skills for ops and product workflows | The skills directory is 40K+ deep. These are the ones that actually work. **51 stars** |
+| 🍋 [zeste](https://github.com/ElliotJLT/zeste) | macOS menubar app — search, install, and manage Claude Code skills | Finding and installing skills shouldn't require digging through GitHub |
+| 🔍 [claudemd-lint](https://github.com/ElliotJLT/claudemd-lint) | Linter for CLAUDE.md files | Catches vague rules, bloated configs, and instructions that should be hooks |
+| 🪝 [hooksmith](https://github.com/ElliotJLT/hooksmith) | Browse and install pre-built Claude Code hooks with one command | 12 hooks, zero config. The missing package manager for CC hooks |
 
 #### MCP servers
 
@@ -28,15 +29,16 @@ Domain expertise baked into tools that any AI assistant can use.
 
 | Project | What it does | Why it exists |
 |---------|-------------|---------------|
-| [conveyancing-mcp-server](https://github.com/ElliotJLT/conveyancing-mcp-server) | UK homebuying assistant — stamp duty, title registers, searches, surveys, leasehold checks | Buying a house involves 15 weeks of opaque legal process. 6 tools, 95 tests, covers England, Scotland & Wales |
-| [hiresignal](https://github.com/ElliotJLT/hiresignal) | Open spec + MCP server for AI-queryable professional profiles | Recruiting agents need structured candidate data, not scraped LinkedIn |
+| 🏠 [conveyancing-mcp-server](https://github.com/ElliotJLT/conveyancing-mcp-server) | UK homebuying assistant — stamp duty, title registers, searches, surveys, leasehold checks | Buying a house involves 15 weeks of opaque legal process. 6 tools, 95 tests, covers England, Scotland & Wales |
+| 📡 [hiresignal](https://github.com/ElliotJLT/hiresignal) | Open spec + MCP server for AI-queryable professional profiles | Recruiting agents need structured candidate data, not scraped LinkedIn |
+| 🎙️ [vox](https://github.com/ElliotJLT/vox) | Open-source Voice of Customer research agent | 8 days of PM research in 8 minutes. JTBD, personas, opportunity mapping from Gong/Granola/Jiminy data |
 
 #### Apps
 
 | Project | What it does |
 |---------|-------------|
-| [mo-hanzi](https://github.com/ElliotJLT/mo-hanzi) | 墨 mò — menubar SRS for learning Chinese characters (HSK 1-3) |
-| [plod](https://github.com/ElliotJLT/plod) | A calm running app that cares about your health, not your PBs. PWA with Strava sync |
+| 墨 [mo-hanzi](https://github.com/ElliotJLT/mo-hanzi) | menubar SRS for learning Chinese characters (HSK 1-3) |
+| 🐌 [plod](https://github.com/ElliotJLT/plod) | A calm running app that cares about your health, not your PBs. PWA with Strava sync |
 
 #### What I'm writing
 
