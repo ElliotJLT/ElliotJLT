@@ -6,7 +6,7 @@
 
 **Background:** Languages BA (Birmingham/Fudan) — French & English (native), Spanish (fluent), Chinese (intermediate). [BlueDot Impact](https://www.bluedot.org/) AI Governance & Alignment.
 
-> [!NOTE]
+> [!TIP]
 > 🎙️ **[Just Now Possible with Teresa Torres](https://open.spotify.com/episode/3D8quBCXrMNgIF87czhux3)** — on building AI products that augment human relationships, not replace them.
 
 ---
