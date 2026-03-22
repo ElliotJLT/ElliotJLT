@@ -1,12 +1,12 @@
 ### I build AI products and deploy them into environments where they can't afford to fail.
 
-4x founding hire. Most recently led the build of a multi-agent AI product with voice — zero to customers in weeks, in a sector that was actively banning AI tools. Before that: a four-sided marketplace in 10 days during a national crisis, and structured workflows in SRA/FCA-regulated legal tech.
+4x founding hire. Most recently led the build of a multi-agent AI product with voice, zero to customers in weeks, in a sector that was actively banning AI tools. Before that: a four-sided marketplace in 10 days during a national crisis, and structured workflows in SRA/FCA-regulated legal tech.
 
-**Now:** Building and deploying AI at [Zero Gravity](https://zerogravity.co.uk) — multi-agent architecture, voice, correctness evaluation, enterprise partners (HSBC, KPMG, Accenture). Previously: [Flash Pack](https://www.flashpack.com/) (pre-seed → Series A), [MealsForTheNHS](https://mealsforthenhs.org) (co-founder, £1.8m raised, 303k meals), [Farewill](https://farewill.com/) (SRA/FCA regulated).
+**Now:** Building and deploying AI at [Zero Gravity](https://zerogravity.co.uk). Multi-agent architecture, voice, correctness evaluation, enterprise partners (HSBC, KPMG, Accenture). Previously: [Flash Pack](https://www.flashpack.com/) (pre-seed to Series A), [MealsForTheNHS](https://mealsforthenhs.org) (co-founder, £1.8m raised, 303k meals), [Farewill](https://farewill.com/) (SRA/FCA regulated).
 
-**Background:** Languages BA (Birmingham/Fudan) — French & English (native), Spanish (fluent), Chinese (intermediate). [BlueDot Impact](https://www.bluedot.org/) AI Governance & Alignment.
+**Background:** Languages BA (Birmingham/Fudan). French & English (native), Spanish (fluent), Chinese (intermediate). [BlueDot Impact](https://www.bluedot.org/) AI Governance & Alignment.
 
-🎙️ **Podcast:** [Just Now Possible with Teresa Torres](https://open.spotify.com/episode/3D8quBCXrMNgIF87czhux3) — on building AI products that augment human relationships, not replace them.
+🎙️ **Podcast:** [Just Now Possible with Teresa Torres](https://open.spotify.com/episode/3D8quBCXrMNgIF87czhux3). Building AI products that augment human relationships, not replace them.
 
 ---
 
