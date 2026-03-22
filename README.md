@@ -27,7 +27,7 @@ Domain expertise baked into tools that any AI assistant can use.
 
 | Project | What it does | Why it exists |
 |---------|-------------|---------------|
-| 🏠 [conveyancing-mcp-server](https://github.com/ElliotJLT/conveyancing-mcp-server) | UK homebuying assistant — stamp duty, title registers, searches, surveys, leasehold checks | Buying a house involves 15 weeks of opaque legal process. 6 tools, 95 tests, covers England, Scotland & Wales |
+| 📋 [clearbook](https://github.com/ElliotJLT/clearbook) | UK home-buying MCP server — find conveyancers and mortgage brokers from SRA/FCA/Companies House registers, plus stamp duty, lease checks, survey explainer, title register analysis | 11 tools. Live regulatory data cross-referenced with company health. The complete home-buying journey in one MCP server |
 | 📡 [hiresignal](https://github.com/ElliotJLT/hiresignal) | Open spec + MCP server for AI-queryable professional profiles | Recruiting agents need structured candidate data, not scraped LinkedIn |
 | 🎙️ [vox](https://github.com/ElliotJLT/vox) | Open-source Voice of Customer research agent | 8 days of PM research in 8 minutes. JTBD, personas, opportunity mapping from Gong/Granola/Jiminy data |
 
