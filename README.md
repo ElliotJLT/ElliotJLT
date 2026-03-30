@@ -1,6 +1,6 @@
-### I build AI products and deploy them into environments where they can't afford to fail.
+### Builder-operator who ships with AI.
 
-4x founding hire. Most recently led the build of a multi-agent AI product with voice, zero to customers in weeks, in a sector that was actively banning AI tools. Before that: a four-sided marketplace in 10 days during a national crisis, and structured workflows in SRA/FCA-regulated legal tech.
+4x founding hire at early-stage startups. I build operational infrastructure from scratch, increasingly with AI tools.
 
 **Now:** Building and deploying AI at [Zero Gravity](https://zerogravity.co.uk). Multi-agent architecture, voice, correctness evaluation, enterprise partners (HSBC, KPMG, Accenture). Previously: [Flash Pack](https://www.flashpack.com/) (pre-seed to Series A), [MealsForTheNHS](https://mealsforthenhs.org) (co-founder, £1.8m raised, 303k meals), [Farewill](https://farewill.com/) (SRA/FCA regulated).
 
