@@ -1,8 +1,8 @@
 ### Builder-operator who ships with AI.
 
-4x founding hire at early-stage startups. I build operational infrastructure from scratch, increasingly with AI tools.
+4x founding hire at early-stage startups.
 
-**Now:** Building and deploying AI at [Zero Gravity](https://zerogravity.co.uk). Multi-agent architecture, voice, correctness evaluation, enterprise partners (HSBC, KPMG, Accenture). Previously: [Flash Pack](https://www.flashpack.com/) (pre-seed to Series A), [MealsForTheNHS](https://mealsforthenhs.org) (co-founder, £1.8m raised, 303k meals), [Farewill](https://farewill.com/) (SRA/FCA regulated).
+**Now:** Building and deploying AI at [Zero Gravity](https://zerogravity.co.uk). Previously: [Flash Pack](https://www.flashpack.com/) (pre-seed to Series A), [MealsForTheNHS](https://mealsforthenhs.org) (co-founder, £1.8m raised, 303k meals), [Farewill](https://farewill.com/) (SRA/FCA regulated).
 
 **Background:** Languages BA (Birmingham/Fudan). French & English (native), Spanish (fluent), Chinese (intermediate). [BlueDot Impact](https://www.bluedot.org/) AI Governance & Alignment.
 
