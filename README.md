@@ -10,6 +10,16 @@
 
 ---
 
+#### Just shipped: [AI Tutor](https://www.zerogravity.co.uk/tutor)
+
+An AI maths tutor built for real classrooms. Multi-agent architecture where each agent handles a distinct part of the learning experience: coaching, practice, and marking. Socratic approach — the system never gives the answer, it asks the right questions until the student gets there.
+
+Built with a team of 6 engineers + designer. Zero to beta in two weeks. 100% exam board accuracy on Edexcel (vs ~67% from a bare model). Tested with real students in a classroom trial, 87.5% activation rate. Runs at $0.09/session with 80%+ gross margins.
+
+The hard part wasn't the AI. It was building correctness evaluation infrastructure that could verify answers against real past papers and official mark schemes, then feeding that back into the product.
+
+---
+
 #### MCP servers
 
 Domain expertise turned into tools any AI assistant can use. Python, live regulatory data, production-tested.
