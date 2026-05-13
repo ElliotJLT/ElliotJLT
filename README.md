@@ -10,13 +10,13 @@
 
 ---
 
-#### Just shipped: [AI Tutor](https://www.zerogravity.co.uk/tutor)
+#### Live: [AI Tutor](https://www.zerogravity.co.uk/tutor)
 
-An AI maths tutor built for real classrooms. Multi-agent architecture where each agent handles a distinct part of the learning experience: coaching, practice, and marking. Socratic approach — the system never gives the answer, it asks the right questions until the student gets there.
+AI maths tutor for A-Level students. In production across four STEM subjects on every major UK exam board. Direct-to-consumer for individual students, with a school hub for teachers running it across their classes.
 
-Built with a team of 6 engineers + designer. Zero to beta in two weeks. 100% exam board accuracy on Edexcel (vs ~67% from a bare model). Tested with real students in a classroom trial, 87.5% activation rate. Runs at $0.09/session with 80%+ gross margins.
+Multi-agent architecture — coaching, practice, marking and assignments each run as their own agent with their own prompts, pedagogy and evaluator. Socratic from the prompt up: the system refuses to give the answer even when students get creative about asking. Every coaching session is graded against the Socratic spec by an always-on evaluator, with safety telemetry running on every interaction.
 
-The hard part wasn't the AI. It was building correctness evaluation infrastructure that could verify answers against real past papers and official mark schemes, then feeding that back into the product.
+The hard part wasn't the AI. It was the operating system around it: correctness evaluation against real past papers and official mark schemes, and the engineering discipline to ship every week with the safeguards getting tighter rather than looser.
 
 ---
 
