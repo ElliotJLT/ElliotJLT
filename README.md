@@ -27,7 +27,6 @@ Domain expertise turned into tools any AI assistant can use. Python, live regula
 | Project | What it does | Why it exists |
 |---------|-------------|---------------|
 | 📋 [clearbook](https://github.com/ElliotJLT/clearbook) | UK home-buying MCP server — conveyancers and mortgage brokers from SRA/FCA/Companies House registers, stamp duty, lease checks, survey explainer, title register analysis | 11 tools. Live regulatory data cross-referenced with company health. The complete home-buying journey in one server |
-| 📡 [hiresignal](https://github.com/ElliotJLT/hiresignal) | Open spec + MCP server for AI-queryable professional profiles | Recruiting agents need structured candidate data, not scraped LinkedIn |
 | 🎙️ [vox](https://github.com/ElliotJLT/vox) | Voice of Customer research agent | 8 days of PM research in 8 minutes. JTBD, personas, opportunity mapping from Gong/Granola/Jiminy data |
 
 #### AI deployment & safety
