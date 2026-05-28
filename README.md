@@ -16,7 +16,7 @@ AI maths tutor for A-Level students. In production across four STEM subjects on 
 
 Multi-agent architecture — coaching, practice, marking and assignments each run as their own agent with their own prompts, pedagogy and evaluator. Socratic from the prompt up: the system refuses to give the answer even when students get creative about asking. Every coaching session is graded against the Socratic spec by an always-on evaluator, with safety telemetry running on every interaction.
 
-The hard part wasn't the AI. It was the operating system around it: correctness evaluation against real past papers and official mark schemes, and the engineering discipline to ship every week with the safeguards getting tighter rather than looser.
+The hard part wasn't the AI. It was the operating system around it: correctness evaluation against real past papers and official mark schemes, and the engineering discipline to ship every day with the safeguards getting tighter rather than looser.
 
 ---
 
