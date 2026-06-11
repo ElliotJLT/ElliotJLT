@@ -53,7 +53,7 @@ Tools for AI-assisted development. I use Claude Code daily on a production app �
 |---------|-------------|
 | ☕ [spawn-cafe](https://github.com/ElliotJLT/spawn-cafe) | Share your link, pick a slot, find a cafe halfway. Agentic coffee meetup scheduler |
 | 墨 [mo-hanzi](https://github.com/ElliotJLT/mo-hanzi) | Menubar SRS for learning Chinese characters (HSK 1-3) |
-| 🐌 [plod](https://github.com/ElliotJLT/plod) | A calm running app that cares about your health, not your PBs. PWA with Strava sync |
+| 💡 [lamplight](https://github.com/ElliotJLT/lamplight) | An open street-lighting map for running after dark |
 | 🎧 [spotifyunwrapped](https://github.com/ElliotJLT/spotifyunwrapped) | Your Spotify data, visualised properly. Privacy-first analytics, runs entirely in your browser |
 
 #### What I'm writing
