@@ -20,6 +20,14 @@ The hard part wasn't the AI. It was the operating system around it: correctness 
 
 ---
 
+#### Agent tools
+
+Tools that make AI coding agents better at design + UI work.
+
+| Project | What it does | Why it exists |
+|---------|-------------|---------------|
+| 🎨 [dabble](https://github.com/ElliotJLT/dabble) | Visual editor for server-rendered (Hotwire) apps — edit the running app in place, write real ERB, built for AI coding agents | Kills the design→code handoff for the stacks React-first tools ignore. Click an element → tweak it → your agent gets the exact source + selection context |
+
 #### MCP servers
 
 Domain expertise turned into tools any AI assistant can use. Python, live regulatory data, production-tested.
