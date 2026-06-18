@@ -10,7 +10,7 @@
 
 ---
 
-#### Live: [AI Tutor](https://www.zerogravity.co.uk/tutor)
+### Live: [AI Tutor](https://www.zerogravity.co.uk/tutor)
 
 AI maths tutor for A-Level students. In production across four STEM subjects on every major UK exam board. Direct-to-consumer for individual students, with a school hub for teachers running it across their classes.
 
@@ -20,7 +20,11 @@ The hard part wasn't the AI. It was the operating system around it: correctness 
 
 ---
 
-#### Agent tools
+### Agent tools
+
+Things I've built for AI-assisted development — visual editing, MCP servers, evals, and Claude Code utilities.
+
+#### Visual editing
 
 Tools that make AI coding agents better at design + UI work.
 
@@ -55,7 +59,7 @@ Tools for AI-assisted development. I use Claude Code daily on a production app �
 | 🔍 [claudemd-lint](https://github.com/ElliotJLT/claudemd-lint) | Linter for CLAUDE.md files | Catches vague rules, bloated configs, and instructions that should be hooks |
 | 🪝 [hooksmith](https://github.com/ElliotJLT/hooksmith) | Browse and install pre-built Claude Code hooks with one command | 12 hooks, zero config. The missing package manager for CC hooks |
 
-#### Apps
+### Apps
 
 | Project | What it does |
 |---------|-------------|
@@ -64,7 +68,7 @@ Tools for AI-assisted development. I use Claude Code daily on a production app �
 | 💡 [lamplight](https://github.com/ElliotJLT/lamplight) | An open street-lighting map for running after dark |
 | 🎧 [spotifyunwrapped](https://github.com/ElliotJLT/spotifyunwrapped) | Your Spotify data, visualised properly. Privacy-first analytics, runs entirely in your browser |
 
-#### What I'm writing
+### What I'm writing
 
 - [What I Learned Spending A Week With 100+ AI Leaders](https://medium.com/@elliotJL/what-i-learned-spending-a-week-with-100-ai-leaders-3517ac3dc16c)
 - [What I Learned Shipping AI to Users Who Can't Afford Bad Advice](https://medium.com/@elliotJL/what-i-learned-shipping-ai-to-users-who-cant-afford-bad-advice-606243049534)
