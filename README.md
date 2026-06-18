@@ -22,38 +22,15 @@ The hard part wasn't the AI. It was the operating system around it: correctness 
 
 ### Agent tools
 
-Things I've built for AI-assisted development — visual editing, MCP servers, evals, and Claude Code utilities.
-
-#### Visual editing
-
-Tools that make AI coding agents better at design + UI work.
+Things I've built for AI-assisted development — visual editing, MCP servers, evals, and Claude Code utilities. I use Claude Code daily on a production app; most of these came from scratching my own itches.
 
 | Project | What it does | Why it exists |
 |---------|-------------|---------------|
 | 🎨 [dabble](https://github.com/ElliotJLT/dabble) | Visual editor for server-rendered (Hotwire) apps — edit the running app in place, write real ERB, built for AI coding agents | Kills the design→code handoff for the stacks React-first tools ignore. Click an element → tweak it → your agent gets the exact source + selection context |
-
-#### MCP servers
-
-Domain expertise turned into tools any AI assistant can use. Python, live regulatory data, production-tested.
-
-| Project | What it does | Why it exists |
-|---------|-------------|---------------|
 | 📋 [clearbook](https://github.com/ElliotJLT/clearbook) | UK home-buying MCP server — conveyancers and mortgage brokers from SRA/FCA/Companies House registers, stamp duty, lease checks, survey explainer, title register analysis | 11 tools. Live regulatory data cross-referenced with company health. The complete home-buying journey in one server |
 | 🎙️ [vox](https://github.com/ElliotJLT/vox) | Voice of Customer research agent | 8 days of PM research in 8 minutes. JTBD, personas, opportunity mapping from Gong/Granola/Jiminy data |
-
-#### AI deployment & safety
-
-| Project | What it does | Why it exists |
-|---------|-------------|---------------|
 | 🧬 [claude-eval-toolkit](https://github.com/ElliotJLT/claude-eval-toolkit) | Evaluation framework for Claude-powered apps — evals, guardrails, deployment patterns | Test your AI before it reaches users. 69 test cases, LLM-as-judge grading, UK education safeguarding (KCSIE/Prevent) |
 | 🧠 [decision-trail](https://github.com/ElliotJLT/decision-trail) | Capture human decisions during AI-assisted development | AI writes the code. Humans make the calls. This records which calls were made and why — so you can audit, learn, and improve |
-
-#### Claude Code ecosystem
-
-Tools for AI-assisted development. I use Claude Code daily on a production app — these came from scratching my own itches.
-
-| Project | What it does | Why it exists |
-|---------|-------------|---------------|
 | 🧪 [Claude-Skill-Potions](https://github.com/ElliotJLT/Claude-Skill-Potions) | Curated Claude Code skills for ops and product workflows | The skills directory is 40K+ deep. These are the ones that actually work. **51 stars** |
 | 🍋 [zeste](https://github.com/ElliotJLT/zeste) | macOS menubar app — search, install, and manage Claude Code skills | Finding and installing skills shouldn't require digging through GitHub |
 | 🔍 [claudemd-lint](https://github.com/ElliotJLT/claudemd-lint) | Linter for CLAUDE.md files | Catches vague rules, bloated configs, and instructions that should be hooks |
