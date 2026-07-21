@@ -26,6 +26,7 @@ Things I've built for AI-assisted development — visual editing, MCP servers, e
 
 | Project | What it does | Why it exists |
 |---------|-------------|---------------|
+| 💼 [boulot](https://github.com/ElliotJLT/boulot-os) | Open-source career-ops system that runs on your own laptop through Claude Code. Tailors your CV per role, then three adversarial agents (hiring manager, reviewer, strategist) fight over the draft. Company research, mock interviews, pipeline tracking | Built it for my own search in a brutal market. It worked, so I open-sourced it. Agent-native by design — markdown persona, code tools, your data stays on your machine |
 | 🎨 [dabble](https://github.com/ElliotJLT/dabble) | Visual editor for server-rendered (Hotwire) apps — edit the running app in place, write real ERB, built for AI coding agents | Kills the design→code handoff for the stacks React-first tools ignore. Click an element → tweak it → your agent gets the exact source + selection context |
 | 📋 [clearbook](https://github.com/ElliotJLT/clearbook) | UK home-buying MCP server — conveyancers and mortgage brokers from SRA/FCA/Companies House registers, stamp duty, lease checks, survey explainer, title register analysis | 11 tools. Live regulatory data cross-referenced with company health. The complete home-buying journey in one server |
 | 🎙️ [vox](https://github.com/ElliotJLT/vox) | Voice of Customer research agent | 8 days of PM research in 8 minutes. JTBD, personas, opportunity mapping from Gong/Granola/Jiminy data |
