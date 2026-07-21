@@ -22,7 +22,7 @@ The hard part wasn't the AI. It was the operating system around it: correctness 
 
 ### Agent tools
 
-Things I've built for AI-assisted development — visual editing, MCP servers, evals, and Claude Code utilities. I use Claude Code daily on a production app; most of these came from scratching my own itches.
+I build across the agent stack: MCP servers, Claude Code skills and hooks, multi-agent orchestration, evals, and autonomous loops. I use Claude Code daily on a production app, and most of these came from scratching my own itches.
 
 | Project | What it does | Why it exists |
 |---------|-------------|---------------|
