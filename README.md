@@ -22,22 +22,27 @@ The hard part was never the AI. It was the operating system around it: correctne
 
 ---
 
-### Agent tools
+### AI products
 
 I build across the agent stack: MCP servers, Claude Code skills and hooks, multi-agent orchestration, evals, and autonomous loops. I use Claude Code daily on a production app, and most of these came from scratching my own itches.
 
 | Project | What it does | Why it exists |
 |---------|-------------|---------------|
 | 💼 [boulot](https://github.com/ElliotJLT/boulot-os) | Open-source career-ops system that runs on your own laptop through Claude Code. Tailors your CV per role, then three adversarial agents (hiring manager, reviewer, strategist) fight over the draft. Company research, mock interviews, pipeline tracking | Built it for my own search in a brutal market. It worked, so I open-sourced it. Agent-native by design — markdown persona, code tools, your data stays on your machine |
-| 🎨 [dabble](https://github.com/ElliotJLT/dabble) | Visual editor for server-rendered (Hotwire) apps — edit the running app in place, write real ERB, built for AI coding agents | Kills the design→code handoff for the stacks React-first tools ignore. Click an element → tweak it → your agent gets the exact source + selection context |
+| 🛡️ [ward](https://github.com/ElliotJLT/ward) | Safeguarding safety layer for LLM apps that serve under-18s — screens each message, splits ordinary conduct from a genuine disclosure, routes real disclosures to a human on a clock. Grounded in UK statute (KCSIE 2025) | Most AI reaching kids has no safeguarding process. A Claude-as-judge detector hits 90% recall, 100% precision and 0% false-positives on the eval that ships inside it, and a deterministic response guard checks the reply back to the child is safe too |
 | 📋 [homebuyer-mcp](https://github.com/ElliotJLT/homebuyer-mcp) | UK home-buying MCP server — conveyancers and mortgage brokers from SRA/FCA/Companies House registers, stamp duty, lease checks, survey explainer, title register analysis | 11 tools. Live regulatory data cross-referenced with company health. The complete home-buying journey in one server |
 | 🎙️ [vox](https://github.com/ElliotJLT/vox) | Voice of Customer research agent | 8 days of PM research in 8 minutes. JTBD, personas, opportunity mapping from Gong/Granola/Jiminy data |
-| 🛡️ [ward](https://github.com/ElliotJLT/ward) | Safeguarding safety layer for LLM apps that serve under-18s — screens each message, splits ordinary conduct from a genuine disclosure, routes real disclosures to a human on a clock. Grounded in UK statute (KCSIE 2025) | Most AI reaching kids has no safeguarding process. A Claude-as-judge detector hits 90% recall, 100% precision and 0% false-positives on the eval that ships inside it, and a deterministic response guard checks the reply back to the child is safe too |
+
+### Agent & Claude Code tooling
+
+| Project | What it does | Why it exists |
+|---------|-------------|---------------|
+| 🎨 [dabble](https://github.com/ElliotJLT/dabble) | Visual editor for server-rendered (Hotwire) apps — edit the running app in place, write real ERB, built for AI coding agents | Kills the design→code handoff for the stacks React-first tools ignore. Click an element → tweak it → your agent gets the exact source + selection context |
 | 🧠 [crux](https://github.com/ElliotJLT/crux) | Capture human decisions during AI-assisted development | AI writes the code. Humans make the calls. This records which calls were made and why — so you can audit, learn, and improve |
-| 🧪 [Claude-Skill-Potions](https://github.com/ElliotJLT/Claude-Skill-Potions) | Curated Claude Code skills for ops and product workflows | The skills directory is 40K+ deep. These are the ones that actually work. **51 stars** |
+| 🧪 [Claude-Skill-Potions](https://github.com/ElliotJLT/Claude-Skill-Potions) | Curated Claude Code skills for ops and product workflows | The skills directory is 40K+ deep. These are the ones that actually work |
 | 🍋 [zeste](https://github.com/ElliotJLT/zeste) | macOS menubar app — search, install, and manage Claude Code skills | Finding and installing skills shouldn't require digging through GitHub |
-| 🔍 [claudemd-lint](https://github.com/ElliotJLT/claudemd-lint) | Linter for CLAUDE.md files | Catches vague rules, bloated configs, and instructions that should be hooks |
 | 🪝 [hooksmith](https://github.com/ElliotJLT/hooksmith) | Browse and install pre-built Claude Code hooks with one command | 12 hooks, zero config. The missing package manager for CC hooks |
+| 🔍 [claudemd-lint](https://github.com/ElliotJLT/claudemd-lint) | Linter for CLAUDE.md files | Catches vague rules, bloated configs, and instructions that should be hooks |
 
 ### Apps
 
