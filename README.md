@@ -30,19 +30,19 @@ I build across the agent stack: MCP servers, Claude Code skills and hooks, multi
 |---------|-------------|---------------|
 | 💼 [boulot](https://github.com/ElliotJLT/boulot-os) | Open-source career-ops system that runs on your own laptop through Claude Code. Tailors your CV per role, then three adversarial agents (hiring manager, reviewer, strategist) fight over the draft. Company research, mock interviews, pipeline tracking | Built it for my own search in a brutal market. It worked, so I open-sourced it. Agent-native by design — markdown persona, code tools, your data stays on your machine |
 | 🛡️ [ward](https://github.com/ElliotJLT/ward) | Safeguarding safety layer for LLM apps that serve under-18s — screens each message, splits ordinary conduct from a genuine disclosure, routes real disclosures to a human on a clock. Grounded in UK statute (KCSIE 2025) | Most AI reaching kids has no safeguarding process. A Claude-as-judge detector hits 90% recall, 100% precision and 0% false-positives on the eval that ships inside it, and a deterministic response guard checks the reply back to the child is safe too |
-| 📋 [homebuyer-mcp](https://github.com/ElliotJLT/homebuyer-mcp) | UK home-buying MCP server — conveyancers and mortgage brokers from SRA/FCA/Companies House registers, stamp duty, lease checks, survey explainer, title register analysis | 11 tools. Live regulatory data cross-referenced with company health. The complete home-buying journey in one server |
-| 🎙️ [vox](https://github.com/ElliotJLT/vox) | Voice of Customer research agent | 8 days of PM research in 8 minutes. JTBD, personas, opportunity mapping from Gong/Granola/Jiminy data |
+| 📋 [homebuyer-mcp](https://github.com/ElliotJLT/homebuyer-mcp) | UK home-buying MCP server — conveyancers and mortgage brokers from SRA/FCA/Companies House registers, stamp duty, lease checks, survey explainer, title register analysis | Buying a house means chasing conveyancers, brokers and registers across half a dozen sites. This is the whole journey in one server: 11 tools, live regulatory data cross-referenced with company health |
+| 🎙️ [vox](https://github.com/ElliotJLT/vox) | Voice of Customer research agent | VoC research is weeks of reading call transcripts before a pattern shows. Vox does 8 days of it in 8 minutes: JTBD, personas, opportunity mapping from Gong/Granola/Jiminy data |
 
 ### Agent & Claude Code tooling
 
 | Project | What it does | Why it exists |
 |---------|-------------|---------------|
-| 🎨 [dabble](https://github.com/ElliotJLT/dabble) | Visual editor for server-rendered (Hotwire) apps — edit the running app in place, write real ERB, built for AI coding agents | Kills the design→code handoff for the stacks React-first tools ignore. Click an element → tweak it → your agent gets the exact source + selection context |
-| 🧠 [crux](https://github.com/ElliotJLT/crux) | Capture human decisions during AI-assisted development | AI writes the code. Humans make the calls. This records which calls were made and why — so you can audit, learn, and improve |
+| 🎨 [dabble](https://github.com/ElliotJLT/dabble) | Visual editor for server-rendered (Hotwire) apps — edit the running app in place, write real ERB, built for AI coding agents | Design tools generate React and ignore server-rendered stacks. Dabble edits the running Hotwire app in place: click an element → tweak it → your agent gets the exact source and selection context. No design→code handoff |
+| 🧠 [crux](https://github.com/ElliotJLT/crux) | Capture human decisions during AI-assisted development | When an agent writes the code, the reasoning behind each human call vanishes from the diff. Crux records which calls were made and why, so you can audit and learn from them later |
 | 🧪 [Claude-Skill-Potions](https://github.com/ElliotJLT/Claude-Skill-Potions) | Curated Claude Code skills for ops and product workflows | The skills directory is 40K+ deep. These are the ones that actually work |
 | 🍋 [zeste](https://github.com/ElliotJLT/zeste) | macOS menubar app — search, install, and manage Claude Code skills | Finding and installing skills shouldn't require digging through GitHub |
-| 🪝 [hooksmith](https://github.com/ElliotJLT/hooksmith) | Browse and install pre-built Claude Code hooks with one command | 12 hooks, zero config. The missing package manager for CC hooks |
-| 🔍 [claudemd-lint](https://github.com/ElliotJLT/claudemd-lint) | Linter for CLAUDE.md files | Catches vague rules, bloated configs, and instructions that should be hooks |
+| 🪝 [hooksmith](https://github.com/ElliotJLT/hooksmith) | Browse and install pre-built Claude Code hooks with one command | CC hooks are powerful but there's no easy way to find and install them. The missing package manager: 12 hooks, one command, zero config |
+| 🔍 [claudemd-lint](https://github.com/ElliotJLT/claudemd-lint) | Linter for CLAUDE.md files | CLAUDE.md files rot into vague rules and bloat that quietly degrade the agent. This lints them: catches vague rules, bloated configs, and instructions that should be hooks |
 
 ### Apps
 
