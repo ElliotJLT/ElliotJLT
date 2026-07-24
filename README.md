@@ -1,22 +1,24 @@
-### Builder-operator who ships with AI.
+### Builder-operator who ships production AI.
 
-4x founding hire at early-stage startups.
+Ops roots, product instincts, both now aimed at AI. 4x founding hire. I built an A-Level AI tutor that the UK government selected for its national programme on safe AI tutoring.
 
-**Now:** Building and deploying AI at [Zero Gravity](https://zerogravity.co.uk). Previously: [Flash Pack](https://www.flashpack.com/) (pre-seed to Series A), [MealsForTheNHS](https://mealsforthenhs.org) (co-founder, £1.8m raised, 303k meals), [Farewill](https://farewill.com/) (SRA/FCA regulated).
+**Track record:** [Flash Pack](https://www.flashpack.com/) (pre-seed to Series A), [MealsForTheNHS](https://mealsforthenhs.org) (co-founder, £1.8m raised, 303k meals), [Farewill](https://farewill.com/) (SRA/FCA regulated).
 
-**Background:** Languages BA (Birmingham/Fudan). French & English (native), Spanish (fluent), Chinese (intermediate). [BlueDot Impact](https://www.bluedot.org/) AI Governance & Alignment.
+**Background:** Languages BA (Birmingham/Fudan). French and English (native), Spanish (fluent), Chinese (intermediate). [BlueDot Impact](https://www.bluedot.org/) AI Governance and Alignment.
 
-🎙️ **Podcast:** [Just Now Possible with Teresa Torres](https://open.spotify.com/episode/3D8quBCXrMNgIF87czhux3). Building AI products that augment human relationships, not replace them.
+🎙️ **Podcast:** [Just Now Possible with Teresa Torres](https://open.spotify.com/episode/3D8quBCXrMNgIF87czhux3). Building AI products that augment human relationships rather than replace them.
 
 ---
 
-### Live: [AI Tutor](https://www.zerogravity.co.uk/tutor)
+### AI Tutor ([zerogravity.co.uk/tutor](https://www.zerogravity.co.uk/tutor))
 
-AI maths tutor for A-Level students. In production across four STEM subjects on every major UK exam board. Direct-to-consumer for individual students, with a school hub for teachers running it across their classes.
+An A-Level AI STEM tutor, in production across four subjects on every major UK exam board. Direct-to-consumer for individual students, with a school hub for teachers running it across their classes.
 
-Multi-agent architecture — coaching, practice, marking and assignments each run as their own agent with their own prompts, pedagogy and evaluator. Socratic from the prompt up: the system refuses to give the answer even when students get creative about asking. Every coaching session is graded against the Socratic spec by an always-on evaluator, with safety telemetry running on every interaction.
+The UK government selected it for the [AI Tutoring Tools Pioneers Programme](https://www.gov.uk/government/news/edtech-and-ai-companies-invited-to-help-build-safe-ai-tutoring-tools-for-disadvantaged-pupils) (DfE and DSIT), a national cohort building safe AI tutoring for disadvantaged pupils, held to the government's Generative AI Product Safety Standards.
 
-The hard part wasn't the AI. It was the operating system around it: correctness evaluation against real past papers and official mark schemes, and the engineering discipline to ship every day with the safeguards getting tighter rather than looser.
+I built it on a multi-agent architecture. Coaching, practice, marking and assignments each ran as their own agent, with their own prompts, pedagogy and evaluator. It was Socratic from the prompt up, refusing to give the answer even when students got creative about asking. An always-on evaluator graded every coaching session against the Socratic spec, and safety telemetry ran on every interaction.
+
+The hard part was never the AI. It was the operating system around it: correctness evaluation against real past papers and official mark schemes, and the discipline to ship every day while the safeguards only got tighter.
 
 ---
 
