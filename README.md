@@ -50,7 +50,7 @@ Controlled experiments on how Claude actually behaves, not how it's assumed to.
 | Project | What it found |
 |---------|---------------|
 | 🧠 [crux](https://github.com/ElliotJLT/crux) | Capture human decisions during AI-assisted development | When an agent writes the code, the reasoning behind each human call vanishes from the diff. Crux records which calls were made and why, so you can audit and learn from them later |
-| 🐕 [dog-years](https://github.com/ElliotJLT/dog-years) | Claude quotes human-team timelines ("2-3 weeks") for work it does itself in minutes. The real question is whether that bad estimate changes what it actually does — tested it directly: ~90 controlled runs, a pre-registered replication that killed the pilot's apparent anchoring effect, and a fix that grounds future estimates in measured history instead of vibes |
+| 🐕 [dog-years](https://github.com/ElliotJLT/dog-years) | Claude quotes human-team timelines ("2-3 weeks") for work it does itself in minutes. The real question is whether that bad estimate changes what it actually does. A fix that grounds future estimates in measured history instead of vibes |
 | 🧭 [agent-orchestration-research](https://github.com/ElliotJLT/agent-orchestration-research) | Research notes on multi-agent coding workflow patterns and orchestration strategies |
 
 ### Fun stuff
