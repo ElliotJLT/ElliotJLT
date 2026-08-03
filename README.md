@@ -44,6 +44,15 @@ I build across the agent stack: MCP servers, Claude Code skills and hooks, multi
 | 🪝 [hooksmith](https://github.com/ElliotJLT/hooksmith) | Browse and install pre-built Claude Code hooks with one command | CC hooks are powerful but there's no easy way to find and install them. The missing package manager: 12 hooks, one command, zero config |
 | 🔍 [claudemd-lint](https://github.com/ElliotJLT/claudemd-lint) | Linter for CLAUDE.md files | CLAUDE.md files rot into vague rules and bloat that quietly degrade the agent. This lints them: catches vague rules, bloated configs, and instructions that should be hooks |
 
+### AI behavior research
+
+Controlled experiments on how Claude actually behaves, not how it's assumed to.
+
+| Project | What it found |
+|---------|---------------|
+| 🐕 [dog-years](https://github.com/ElliotJLT/dog-years) | Claude quotes human-team timelines ("2-3 weeks") for work it does itself in minutes. The real question is whether that bad estimate changes what it actually does — tested it directly: ~90 controlled runs, a pre-registered replication that killed the pilot's apparent anchoring effect, and a fix that grounds future estimates in measured history instead of vibes |
+| 🧭 [agent-orchestration-research](https://github.com/ElliotJLT/agent-orchestration-research) | Research notes on multi-agent coding workflow patterns and orchestration strategies |
+
 ### Apps
 
 | Project | What it does |
