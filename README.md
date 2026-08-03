@@ -1,6 +1,6 @@
 ### Builder-operator who ships production AI.
 
-Ops roots, product instincts, both now aimed at AI. 4x founding hire. I built an A-Level AI tutor that the UK government selected for its national programme on safe AI tutoring.
+Ops roots, product instincts, both now aimed at AI. 4x founding hire. I built an A-Level AI tutor that the UK government selected for its national programme on safe AI tutoring. Allergic to GitHub? You can read more about what I'm building and writing here: [ElliotOS](https://www.elliotos.com/)
 
 **Track record:** [Flash Pack](https://www.flashpack.com/) (pre-seed to Series A), [MealsForTheNHS](https://mealsforthenhs.org) (co-founder, £1.8m raised, 303k meals), [Farewill](https://farewill.com/) (SRA/FCA regulated).
 
