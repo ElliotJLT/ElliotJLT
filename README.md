@@ -22,7 +22,7 @@ The hard part was never the AI. It was the operating system around it: correctne
 
 ---
 
-### AI products
+### AI builds
 
 I build across the agent stack: MCP servers, Claude Code skills and hooks, multi-agent orchestration, evals, and autonomous loops. I use Claude Code daily on a production app, and most of these came from scratching my own itches.
 
@@ -31,14 +31,12 @@ I build across the agent stack: MCP servers, Claude Code skills and hooks, multi
 | 💼 [boulot](https://github.com/ElliotJLT/boulot-os) | Open-source career-ops system that runs on your own laptop through Claude Code. Tailors your CV per role, then three adversarial agents (hiring manager, reviewer, strategist) fight over the draft. Company research, mock interviews, pipeline tracking | Built it for my own search in a brutal market. It worked, so I open-sourced it. Agent-native by design — markdown persona, code tools, your data stays on your machine |
 | 🛡️ [ward](https://github.com/ElliotJLT/ward) | Safeguarding safety layer for LLM apps that serve under-18s — screens each message, splits ordinary conduct from a genuine disclosure, routes real disclosures to a human on a clock. Grounded in UK statute (KCSIE 2025) | Most AI reaching kids has no safeguarding process. A Claude-as-judge detector hits 90% recall, 100% precision and 0% false-positives on the eval that ships inside it, and a deterministic response guard checks the reply back to the child is safe too |
 | 📋 [homebuyer-mcp](https://github.com/ElliotJLT/homebuyer-mcp) | UK home-buying MCP server — conveyancers and mortgage brokers from SRA/FCA/Companies House registers, stamp duty, lease checks, survey explainer, title register analysis | Buying a house means chasing conveyancers, brokers and registers across half a dozen sites. This is the whole journey in one server: 11 tools, live regulatory data cross-referenced with company health |
-| 🎙️ [vox](https://github.com/ElliotJLT/vox) | Voice of Customer research agent | VoC research is weeks of reading call transcripts before a pattern shows. Vox does 8 days of it in 8 minutes: JTBD, personas, opportunity mapping from Gong/Granola/Jiminy data |
 
 ### Agent & Claude Code tooling
 
 | Project | What it does | Why it exists |
 |---------|-------------|---------------|
 | 🎨 [dabble](https://github.com/ElliotJLT/dabble) | Visual editor for server-rendered (Hotwire) apps — edit the running app in place, write real ERB, built for AI coding agents | Design tools generate React and ignore server-rendered stacks. Dabble edits the running Hotwire app in place: click an element → tweak it → your agent gets the exact source and selection context. No design→code handoff |
-| 🧠 [crux](https://github.com/ElliotJLT/crux) | Capture human decisions during AI-assisted development | When an agent writes the code, the reasoning behind each human call vanishes from the diff. Crux records which calls were made and why, so you can audit and learn from them later |
 | 🧪 [Claude-Skill-Potions](https://github.com/ElliotJLT/Claude-Skill-Potions) | Curated Claude Code skills for ops and product workflows | The skills directory is 40K+ deep. These are the ones that actually work |
 | 🍋 [zeste](https://github.com/ElliotJLT/zeste) | macOS menubar app — search, install, and manage Claude Code skills | Finding and installing skills shouldn't require digging through GitHub |
 | 🪝 [hooksmith](https://github.com/ElliotJLT/hooksmith) | Browse and install pre-built Claude Code hooks with one command | CC hooks are powerful but there's no easy way to find and install them. The missing package manager: 12 hooks, one command, zero config |
@@ -50,13 +48,15 @@ Controlled experiments on how Claude actually behaves, not how it's assumed to.
 
 | Project | What it found |
 |---------|---------------|
+| 🧠 [crux](https://github.com/ElliotJLT/crux) | Capture human decisions during AI-assisted development | When an agent writes the code, the reasoning behind each human call vanishes from the diff. Crux records which calls were made and why, so you can audit and learn from them later |
 | 🐕 [dog-years](https://github.com/ElliotJLT/dog-years) | Claude quotes human-team timelines ("2-3 weeks") for work it does itself in minutes. The real question is whether that bad estimate changes what it actually does — tested it directly: ~90 controlled runs, a pre-registered replication that killed the pilot's apparent anchoring effect, and a fix that grounds future estimates in measured history instead of vibes |
 | 🧭 [agent-orchestration-research](https://github.com/ElliotJLT/agent-orchestration-research) | Research notes on multi-agent coding workflow patterns and orchestration strategies |
 
-### Apps
+### Small projects
 
 | Project | What it does |
 |---------|-------------|
+| 🎙️ [vox](https://github.com/ElliotJLT/vox) | Voice of Customer research agent | VoC research is weeks of reading call transcripts before a pattern shows. Vox does 8 days of it in 8 minutes: JTBD, personas, opportunity mapping from Gong/Granola/Jiminy data |
 | ☕ [spawn-cafe](https://github.com/ElliotJLT/spawn-cafe) | Share your link, pick a slot, find a cafe halfway. Agentic coffee meetup scheduler |
 | 墨 [mo-hanzi](https://github.com/ElliotJLT/mo-hanzi) | Menubar SRS for learning Chinese characters (HSK 1-3) |
 | 💡 [lamplight](https://github.com/ElliotJLT/lamplight) | An open street-lighting map for running after dark |
