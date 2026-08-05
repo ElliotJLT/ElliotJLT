@@ -57,9 +57,9 @@ Controlled experiments on how Claude actually behaves, not how it's assumed to.
 
 | Project | What it does |
 |---------|-------------|
-| 墨 [mo-hanzi](https://github.com/ElliotJLT/mo-hanzi) | Menubar SRS for learning Chinese characters (HSK 1-3) |
+| 墨 [mo-hanzi](https://github.com/ElliotJLT/mo-hanzi) | Menubar SRS for learning Chinese characters (HSK 1-5) |
 | 💡 [lamplight](https://github.com/ElliotJLT/lamplight) | An open street-lighting map for running after dark |
-| 🎧 [spotifyunwrapped](https://github.com/ElliotJLT/spotifyunwrapped) | Your Spotify data, visualised properly. Privacy-first analytics, runs entirely in your browser |
+| 🎧 [spotifyunwrapped](https://github.com/ElliotJLT/spotifyunwrapped) | Your Spotify data, in depth. Maybe too in depth. |
 
 ### What I'm writing
 
