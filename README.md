@@ -1,4 +1,4 @@
-# Hi, I'm Elliot 👋
+# Hi, I'm Elliot Little 👋
 
 I build AI products and lead the teams shipping them.
 
