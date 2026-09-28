@@ -4,14 +4,14 @@ I build AI products and lead the teams shipping them.
 
 Most of my work is hands-on: product calls, code, evals, and the safeguards around a model that talks to real people. At Zero Gravity I led three engineers and a designer to build an A-Level AI STEM tutor from first commit to the App Store in 45 days. I wrote 28% of its merged code and took it into the UK government's [AI Tutoring Tools Pioneers Programme](https://www.gov.uk/government/news/edtech-and-ai-companies-invited-to-help-build-safe-ai-tutoring-tools-for-disadvantaged-pupils), one of eight companies nationally.
 
-Everything I build and write lives on [ElliotOS](https://www.elliotos.com/), a personal site run like a product: live projects, a public roadmap, and a changelog kept by agents.
+Everything I build and write lives on [ElliotOS](https://www.elliotos.com/), a personal site run like a product: live projects, a changelog kept by agents, and the evals that check them.
 
 **What I work on**
 
 - AI in production: the [Zero Gravity AI STEM tutor](https://www.zerogravity.co.uk/tutor). Four subjects, eight exam boards, Socratic by design, graded against real past papers and mark schemes
 - Safety layers for AI that reaches people who can't afford a wrong answer: [ward](https://github.com/ElliotJLT/ward), a UK safeguarding layer for LLM apps serving under-18s, eval set included
-- Human judgement inside agent workflows: [crux](https://github.com/ElliotJLT/crux), a field study of what you still decide when the agent writes the code
-- A private, evidence-backed brain for product and AI: **argus**, an MCP server that gives Claude and Codex my research, current positions and rejected claims. Deterministic retrieval, explicit promotion, every view dated with how fast it goes stale. The corpus stays private; [how it works is public](https://www.elliotos.com/built/#argus)
+- Human judgement inside agent workflows: [crux](https://github.com/ElliotJLT/crux), a field study of what you still decide when the agent writes the code, and [dog-years](https://github.com/ElliotJLT/dog-years), experiments on why agents estimate in human weeks
+- How I split my own work with machines: an open-loop system built on Claude Code that holds capture, reminders and follow-ups so I keep the calls. It publishes a weekly ledger that can show it failing, on [/loops](https://www.elliotos.com/loops/)
 - Claude Code tooling I use myself: [Skill Potions](https://github.com/ElliotJLT/Claude-Skill-Potions) (skills and hooks) and an [MCP server](https://github.com/ElliotJLT/homebuyer-mcp) for the UK home-buying journey, built on live SRA, FCA and Companies House data
 - Career ops as software: [boulot](https://github.com/ElliotJLT/boulot-os), the local system that ran my own search. Three adversarial agents argue over every application before it goes out
 - Current experiment: AI-run crisis drills for small tour operators, from the crisis ops I ran at Flash Pack. Private while it's tested; write-up coming on ElliotOS
